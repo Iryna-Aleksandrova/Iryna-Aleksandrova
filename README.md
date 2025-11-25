@@ -1,5 +1,5 @@
-## Hi there  My name is Iryna!👋
-<img width="340" height="339" alt="image" src="https://github.com/user-attachments/assets/4a5ceee1-6deb-43ed-89d9-35968822fd8e" />
+## Hi there  My name is Iryna!👋<img width="340" height="339" alt="image" src="https://github.com/user-attachments/assets/4a5ceee1-6deb-43ed-89d9-35968822fd8e" />
+
 
 **Iryna-Aleksandrova/Iryna-Aleksandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
