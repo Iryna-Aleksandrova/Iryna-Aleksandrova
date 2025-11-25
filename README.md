@@ -11,19 +11,7 @@ Junior Front-End Developer with hands-on experience developing dynamic interface
 
 ## My Hard Skills
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
 
 ## Connect with me
 
