@@ -1,7 +1,5 @@
 ## Hi there  My name is Iryna!👋
 
-<!--<img width="740" height="739" alt="image" src="https://github.com/user-attachments/assets/29803dda-2b81-4875-938d-20c9e41c073f" />
-
 **Iryna-Aleksandrova/Iryna-Aleksandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="740" height="739" alt="image" src="https://github.com/user-attachments/assets/4a5ceee1-6deb-43ed-89d9-35968822fd8e" />
+<img width="340" height="339" alt="image" src="https://github.com/user-attachments/assets/4a5ceee1-6deb-43ed-89d9-35968822fd8e" />
